@@ -1,6 +1,6 @@
 ## WeRateDogs Data Wrangling Project 
 
-This notebook wrangles the WeRateDog dataset from their twitter archive.
+The wrangle_act notebook wrangles and gives little analysis on the WeRateDog dataset from their twitter archive.
 The dataset was downloaded from 3 sources:
 * The first which is a csv file of the WeRateDogs archive downloaded manually
 * The second file which contains the image prediction of the tweets was downloaded programmatically from the Udacity server using the request library.
